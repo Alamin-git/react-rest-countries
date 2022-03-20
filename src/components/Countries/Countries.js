@@ -11,8 +11,8 @@ const Countries = () => {
     }, [])
     return (
         <div>
-            <h2>Visit The World</h2>
-            <h3>Available Countries: {countries.length}</h3>
+            <h2 className='heading'>Visit The World</h2>
+            <h3 className='count'>Available Countries: {countries.length}</h3>
             <div className='single-country'>
                 {
                     countries.map(country => <Country

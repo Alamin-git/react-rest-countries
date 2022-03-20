@@ -1,3 +1,10 @@
+.heading{
+    color: brown;
+    font-size: large;
+}
+.count{
+    color: chocolate;
+}
 .single-country{
     display: grid;
     grid-template-columns: repeat(3,1fr);
