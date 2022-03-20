@@ -1,0 +1,16 @@
+.country{
+    padding: 20px;
+    background-color: rgba(185, 164, 164, 0.712);
+    border: 1px solid lightcoral;
+    border-radius: 10px;
+}
+.name{
+    color: rgb(81, 54, 202);
+    font-weight: bold;
+}
+.population{
+    color: chocolate;
+}
+.flag{
+    width: 150px;
+}
